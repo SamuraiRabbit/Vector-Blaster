@@ -1,2 +1,2 @@
-# Vector Blaster
- 
+# VectorBlaster
+ A basic arcade shooter.

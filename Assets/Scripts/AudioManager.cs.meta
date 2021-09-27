@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10e2e036468f6f14cb978d8d592cf37f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerShoot: {fileID: 8300000, guid: e88084c6f293c324db2b4dcf575d60dc, type: 3}
+  - _playerExplosion: {fileID: 8300000, guid: 986d6b30567e30e428f3f21373fe45ca, type: 3}
+  - _enemyExplosion: {fileID: 8300000, guid: 1fd31868d68903d4f9e2c4a3b7ef98f3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
